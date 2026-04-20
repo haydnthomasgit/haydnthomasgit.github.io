@@ -1,5 +1,21 @@
 ---
-title: "About"
+title: "About Me"
 ---
 
-About this site
+Hi, I’m Haydn Thomas.
+
+I am a Financial Lines underwriting professional with experience in management liability insurance, including Directors & Officers (D&O), Employment Practices Liability (EPL), and Fiduciary lines. I am currently pursuing a Master of Science in Insurance Management at Boston University, where I am continuing to build my knowledge in analytics, business strategy, and data-driven decision-making.
+
+My academic and professional interests sit at the intersection of insurance, risk management, analytics, and business operations. Through my graduate coursework and portfolio projects, I am developing stronger technical skills while also building on my background in underwriting and financial risk evaluation.
+
+## Professional Interests
+
+- Insurance and risk management
+- Data analytics and business intelligence
+- Financial and management liability underwriting
+- Business strategy and decision-making
+- Entrepreneurship and real estate investing
+
+## Career Goals
+
+My goal is to continue growing as a business and insurance professional while strengthening my technical and analytical skill set. I am especially interested in roles and projects that combine business judgment, communication, and quantitative analysis to solve real-world problems.

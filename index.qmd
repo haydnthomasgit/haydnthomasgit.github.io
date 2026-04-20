@@ -1,7 +1,21 @@
 ---
-title: "haydnthomasgit.github.io"
+title: ""
 ---
 
-This is a Quarto website.
+# Haydn Thomas
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+**Financial Lines Underwriter | MS Insurance Management Candidate (BU)**
+
+I am a Financial Lines underwriting professional specializing in management liability risks, currently pursuing a Master of Science in Insurance Management at Boston University.
+
+This portfolio highlights my background, interests, and selected work in insurance, analytics, and business strategy.
+
+---
+
+### What you'll find here:
+- Professional background and career goals  
+- Academic and applied projects  
+- Resume and experience  
+- Contact information  
+
+Use the navigation bar above to explore.

@@ -1,0 +1,11 @@
+---
+title: "Contact"
+---
+
+Thank you for visiting my portfolio website.
+
+I welcome opportunities to connect regarding insurance, analytics, business strategy, and professional collaboration.
+
+- Email: [hglt1995@bu.edu](mailto:hglt1995@bu.edu)
+- LinkedIn: [View Profile](https://www.linkedin.com/in/YOUR-LINK)
+- GitHub: [View Projects](https://github.com/haydnthomasgit)

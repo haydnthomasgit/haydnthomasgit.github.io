@@ -1,0 +1,21 @@
+---
+title: "Projects"
+---
+
+This page highlights selected academic and professional projects that reflect my interests in analytics, insurance, and business problem-solving.
+
+## Boston University Analytics Coursework
+
+Through my graduate studies at Boston University, I have completed projects involving data analysis, interpretation, and communication of business insights. These projects have strengthened my skills in analytical thinking, technical tools, and presenting results clearly to different audiences.
+
+## Portfolio Website Project
+
+This website is itself a project built with Quarto and published using GitHub Pages. It serves as a professional portfolio to showcase my academic background, experience, and ongoing work.
+
+## Insurance and Business Writing
+
+In my professional work, I regularly evaluate complex risks, communicate underwriting positions, and assess management liability exposures. That experience has helped me develop strong written communication skills, structured decision-making, and an ability to explain technical topics clearly.
+
+## Future Additions
+
+As I continue in my graduate program, I plan to add more project examples here, including coursework, analytics assignments, and selected technical work. My goal is to create a comprehensive portfolio that demonstrates my growth as a business and insurance professional with strong analytical capabilities.
